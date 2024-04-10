@@ -8,3 +8,7 @@ Correr los comandos
 pip install flask
 
 pip install flask-script
+
+Arrancar con el siguiente comando:
+
+Tarea 1: python hello.py runserver --host 0.0.0.0
