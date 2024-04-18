@@ -9,6 +9,12 @@ pip install flask
 
 pip install flask-script
 
-Arrancar con el siguiente comando:
+Arrancar con el siguiente comando en funcion de la tarea:
 
 Tarea 1: python hello.py runserver --host 0.0.0.0
+
+Tarea 2: 
+- Abrir desde la carpeta flask-crud-backend
+- Correr pip install -r requirements.txt
+- Correr python app.py
+- Testear con su creador de REQUEST de preferencia
